@@ -42,3 +42,64 @@ This dataset includes movie details such as title, genre, release year, rating, 
 
 🔍 Interactive filters & slicers
 
+**Business Problems**
+
+OTT platforms like Amizone Prime manage large catalogs of movies across different genres, languages, and regions. Without proper analysis, it becomes difficult to:
+
+Understand which genres attract the most viewers
+
+Identify content gaps in certain languages or regions
+
+Track trends in movie releases over time
+
+Evaluate the distribution of ratings and content quality
+
+Optimize content acquisition strategy
+
+**Key Business Questions Answered by the Dashboard
+Content & Catalog Analysis**
+
+How many total movies are available on Amizone Prime?
+
+Which genres have the highest and lowest number of movies?
+
+What is the distribution of movies by language and country?
+
+Trend Analysis
+
+How has the number of movie releases changed over the years?
+
+Which years had the highest content additions?
+
+Quality & Ratings
+
+What is the average rating of movies on the platform?
+
+Which genres have the highest-rated movies?
+
+How many movies fall into different rating categories?
+
+User Preference & Strategy
+
+Which type of movies should be added more to improve engagement?
+
+Are there underrepresented genres or languages that need more content?
+
+Which movie duration range is most common on the platform?
+
+**Key Insights**
+
+The platform hosts a large and diverse collection of movies across multiple genres, indicating strong content variety.
+
+Drama and Comedy genres dominate the catalog, suggesting higher audience demand or content acquisition focus in these categories.
+
+Most movies were released after 2015, showing a shift towards modern and recent content to match current viewer preferences.
+
+English and Hindi are the most common languages, highlighting the primary target audience regions.
+
+A majority of movies fall within the 90–120 minutes duration range, which appears to be the preferred format for users.
+
+**Screenshot/Demos**
+
+Example:
+
