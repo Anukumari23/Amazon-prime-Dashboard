@@ -101,7 +101,8 @@ A majority of movies fall within the 90–120 minutes duration range, which appe
 
 **Screenshot/Demos**
 
-show how image looks like: (Amazon-prime-Dashboard/blob/main/image.png)
+show how image looks like: 
+<img width="1376" height="776" alt="Screenshot 2026-01-18 142604" src="https://github.com/user-attachments/assets/e9bb4b35-0e27-4290-b743-1949aaa30d9e" />
 
 Example:(https://github.com/Anukumari23/Amazon-prime-Dashboard/blob/main/image.png)
 
